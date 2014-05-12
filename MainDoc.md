@@ -1,13 +1,20 @@
 ###This is the main document of the list
 
-*[C++](https://github.com/avinoth/OpenSourceForBeginners/blob/master/MainDoc.md#C)
-*[C#](https://github.com/avinoth/OpenSourceForBeginners/blob/master/MainDoc.md#C#)
-*[Java](https://github.com/avinoth/OpenSourceForBeginners/blob/master/MainDoc.md#Java)
-*[Python](https://github.com/avinoth/OpenSourceForBeginners/blob/master/MainDoc.md#Python)
-*[Ruby](https://github.com/avinoth/OpenSourceForBeginners/blob/master/MainDoc.md#Ruby)
-*[Javascript](https://github.com/avinoth/OpenSourceForBeginners/blob/master/MainDoc.md#Javascript)
-*[HTML / CSS](https://github.com/avinoth/OpenSourceForBeginners/blob/master/MainDoc.md#HTML-CSS)
-*[Miscallenous](https://github.com/avinoth/OpenSourceForBeginners/blob/master/MainDoc.md#Misc)
+*[C++](https://github.com/avinoth/OpenSourceForBeginners/blob/master/MainDoc.md#c)
+
+*[C#](https://github.com/avinoth/OpenSourceForBeginners/blob/master/MainDoc.md#c-sharp)
+
+*[Java](https://github.com/avinoth/OpenSourceForBeginners/blob/master/MainDoc.md#java)
+
+*[Python](https://github.com/avinoth/OpenSourceForBeginners/blob/master/MainDoc.md#python)
+
+*[Ruby](https://github.com/avinoth/OpenSourceForBeginners/blob/master/MainDoc.md#ruby)
+
+*[Javascript](https://github.com/avinoth/OpenSourceForBeginners/blob/master/MainDoc.md#javascript)
+
+*[HTML / CSS](https://github.com/avinoth/OpenSourceForBeginners/blob/master/MainDoc.md#html-css)
+
+*[Miscallenous](https://github.com/avinoth/OpenSourceForBeginners/blob/master/MainDoc.md#misc)
 
 ---
 
@@ -19,7 +26,7 @@
 
 ---
 
-##C#
+##C Sharp
 
 | Project Name  | Repo Link                         | Level of contribution | Skill level required |
 |---------------|-----------------------------------|-----------------------|----------------------|
